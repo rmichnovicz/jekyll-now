@@ -5,7 +5,7 @@ title: You're up and running!
 Hello! I'm Randy, and I'm in my fourth year studying Computer Science at Georgia Tech with the Intelligence and Devices threads. 
 Previously, I attended the University of North Texas through its Texas Academy of Mathematics and Science.
 
-![](./images/cci.png)
+![]({{ site.url }}/images/cci.png)
 
 Currently, I am building a startup called [Coordinated Care Inc.](https://www.coordinatedcareinc.com) with 
 [Tee Faircloth](https://www.linkedin.com/in/tee-faircloth-31b60653/) 
@@ -16,7 +16,7 @@ find that they are in facilities better equiped for dealing with day-to-day reco
 Also, medicare pays more to these smaller hospitals for rehab care. We envision that our app will help save small rural hospitals from having to shut down in today's 
 [rural healthcare crisis.](https://www.realclearhealth.com/articles/2018/03/15/rural_americas_health_care_crisis.html)
 
-![](./images/salesforce_small.png)
+![]({{ site.url }}/images/salesforce_small.png)
 
 Last summer, I worked for Salesforce's Mulesoft division on the 
 [Cloudhub](https://www.mulesoft.com/platform/saas/cloudhub-ipaas-cloud-based-integration) 
@@ -26,7 +26,7 @@ from both the Cloudhub team and other Mulesoft teams could quickly view settings
 extensive searching through code to find possible side effects of changing settings and writing integration tests to verify 
 the correctness of my code.
 
-![](./images/mlgt.png)
+![]({{ site.url }}/images/mlgt.png)
 
 Last Spring, I was a TA for both the undergraduate and graduate sections of CS 4641/7641 Machine Learning under Dr. Charles 
 Isbell. While TAing, I recognized that students wanted more help outside 
@@ -34,7 +34,7 @@ of the class's standard once-a-week office hours. I ended up organizing a subset
 test days and paper due dates. For the main part of my job, I graded tests and papers on supervised learning, 
 randomized optimization, unsupervized learning, and reinforcement learning. 
 
-![](./images/snl.png)
+![]({{ site.url }}/images/snl.png)
 
 In Spring and Summer of 2018, I worked at Sandia National Laboratories, working on time series data from hardware.
 I build a tool that allowed operators to query and filter data, graph it, generate descriptive statistics, and 
