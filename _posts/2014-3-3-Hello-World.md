@@ -6,7 +6,7 @@ title: You're up and running!
 Hello! I'm Randy, and I am in my fourth year studying Computer Science at Georgia Tech with Intelligence and Devices threads. 
 Previously, I attended the University of North Texas through its Texas Academy of Mathematics and Science.
 
-<img src="https://www.coordinatedcareinc.com/wp-content/uploads/2019/01/CCI-24x36-1024x601.png" height=150 width=256>
+![](https://www.coordinatedcareinc.com/wp-content/uploads/2019/01/CCI-24x36-1024x601.png =100x20)
 Currently, I am building a startup called [Coordinated Care Inc.](https://www.coordinatedcareinc.com)</a> with 
 to build a web app based service to coordinate the transfer of 
 [swing bed patients.](https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/SNFPPS/SwingBed.html)
