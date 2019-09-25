@@ -29,9 +29,11 @@ the correctness of my code.
 ![](https://rmichnovicz.github.io/images/mlgt.png)
 
 Last Spring, I was a TA for both the undergraduate and graduate sections of CS 4641/7641 Machine Learning under Dr. Charles 
-Isbell. While TAing, I recognized that students wanted more help outside 
-of the class's standard once-a-week office hours. I ended up organizing a subset of the TAs to hold office hours before 
-test days and paper due dates. For the main part of my job, I graded tests and papers on supervised learning, 
+Isbell. In office hours and the online Q/A forum Piazza, I spent time answering student's quetions about fundamental ML concepts, 
+how to use software such as scikit-learn and pandas, and how to make a good/fair ML experiment. 
+While TAing, I recognized that students wanted more help outside 
+of the class's standard once-a-week office hours, so I ended up organizing a subset of the TAs to hold office hours before 
+test days and paper due dates. The bulk of my hours were spent grading tests and papers on supervised learning, 
 randomized optimization, unsupervized learning, and reinforcement learning. 
 
 ![](https://rmichnovicz.github.io/images/snl.png)
